@@ -1,0 +1,20 @@
+{
+  "name": "clientsideagent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@paymoapp/active-window": "^2.1.2",
+    "axios": "^1.9.0",
+    "form-data": "^4.0.2",
+    "prompt-sync": "^4.2.0",
+    "screenshot-desktop": "^1.15.1"
+  }
+}
